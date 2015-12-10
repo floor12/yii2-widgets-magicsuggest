@@ -1,13 +1,13 @@
 {
-    "name": "wayhood/yii2-widgets-magicsuggest",
+    "name": "floor12/yii2-widgets-magicsuggest",
     "description": "MagicSuggest",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","MagicSuggest"],
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "wayhood",
-            "email": "wayhood@163.com"
+            "name": "floor12",
+            "email": "primelifecoder@gmail.com"
         }
     ],
     "require": {
